@@ -11,9 +11,9 @@ defaults:
       type: postgres
       host: localhost
       port: 5432
-      user: wikijs
-      pass: wikijsrocks
-      db: wiki
+      user: postgres
+      pass: etp@1234
+      db: postgres
       ssl: false
       storage: ./db.sqlite
       sslOptions:
